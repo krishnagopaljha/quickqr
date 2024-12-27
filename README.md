@@ -9,10 +9,6 @@ QuickQR is a simple and easy-to-use tool for generating QR codes from URLs or te
 - **Responsive Design**: Works well on both desktop and mobile devices.
 - **Error Handling**: Displays helpful error messages when input is invalid or QR code generation fails.
 
-## Demo
-
-You can view a live demo of QuickQR [here](#).
-
 ## How to Use
 
 1. Open the **QuickQR** tool in your browser.
